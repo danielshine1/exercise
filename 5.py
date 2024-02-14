@@ -1,1 +1,1 @@
-print("conflict3")
+print("1")
